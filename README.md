@@ -1,4 +1,4 @@
-# Performance Monitor
+# Monitor Demo
 
 ## Description
 The **Demo Performance Monitor** is a web-based tool designed for developers and IT professionals to monitor the performance of their web applications. With real-time tracking of CPU, memory, and network usage, this tool provides insights into application performance with a sleek, terminal-inspired user interface.
