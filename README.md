@@ -1,2 +1,17 @@
-# performance-monitor-demo
-A real-time performance monitoring tool for web applications. Track CPU, memory, and network usage with interactive charts and terminal-style visuals.
+# Real-time Performance Monitor
+
+## Description
+The **Real-time Performance Monitor** is a web-based tool designed for developers and IT professionals to monitor the performance of their web applications. With real-time tracking of CPU, memory, and network usage, this tool provides insights into application performance with a sleek, terminal-inspired user interface.
+
+- **Features**:
+  - Real-time monitoring of CPU, memory, and network usage.
+  - Customizable refresh intervals.
+  - Interactive line charts for performance visualization.
+  - Lightweight and responsive design optimized for developers.
+  - Built using HTML, CSS, and JavaScript with the Chart.js library.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/real-time-performance-monitor.git
