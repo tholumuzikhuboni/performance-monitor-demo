@@ -1,7 +1,7 @@
-# Real-time Performance Monitor
+# Demo Performance Monitor
 
 ## Description
-The **Real-time Performance Monitor** is a web-based tool designed for developers and IT professionals to monitor the performance of their web applications. With real-time tracking of CPU, memory, and network usage, this tool provides insights into application performance with a sleek, terminal-inspired user interface.
+The **Demo Performance Monitor** is a web-based tool designed for developers and IT professionals to monitor the performance of their web applications. With real-time tracking of CPU, memory, and network usage, this tool provides insights into application performance with a sleek, terminal-inspired user interface.
 
 - **Features**:
   - Real-time monitoring of CPU, memory, and network usage.
